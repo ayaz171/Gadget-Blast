@@ -1,0 +1,10 @@
+.*{
+	margin:0;
+	padding:0;
+}
+
+#single_product{
+   float:left;
+   margin-left:30px;
+   padding:10px;
+}
